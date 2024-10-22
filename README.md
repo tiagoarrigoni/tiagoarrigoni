@@ -5,7 +5,6 @@ I work as an IT Technician and am currently studying Internet Systems and System
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-a-arrigoni-335b9413b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiarrigoni/)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/TiagoArrigoni)
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoarrigoni&show_icons=true&theme=dark)
