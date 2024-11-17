@@ -5,9 +5,9 @@ I work as an IT Technician and currently studying Internet Systems and Systems A
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-a-arrigoni-335b9413b/)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/TiagoArrigoni)
 
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoarrigoni&show_icons=true&theme=dark)
+
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoarrigoni&show_icons=true&theme=dracula)
 
 
 ### MStack 
@@ -16,6 +16,9 @@ I work as an IT Technician and currently studying Internet Systems and Systems A
     <img align-center alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align-center alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align-center alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align-center alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+
 </div>   
 
 ### SStack 
